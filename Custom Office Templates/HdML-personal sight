@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Luke prefesional sight </title>
+</head>
+
+<body>
+  <h1>Luke Kitching</h1>
+  <p><em>Luke mmt web desiner</em> </p>
+  <p>I am a rugby player at high school Zwartkop i play number 13</p>
+  <hr>
+  <h3>schools</h3>
+  <ul>
+    <li>hennos spark was my laerskool</li>
+    <li>zwartkop is my highschool</Li>
+  </ul>
+  <h3>my hobbies </h3>
+  <ol>
+    <li>gym</li>
+    <li>rugby</li>
+    <li>cars</li>
+
+</body>
+
+
+
+</html>
